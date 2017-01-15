@@ -73,10 +73,10 @@ else:
 
 #Explain that input is how a user interacts with the application.
 
-#####           #                   #######
-#                    #                          #
-#                   #                           #
-#                   #                           #
+#####           #               #######
+#               #                  #
+#               #                  #
+#               #                  #
 ####            # ###           #######
 
 myInput = input("Enter a string")
