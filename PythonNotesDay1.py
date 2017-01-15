@@ -2,9 +2,9 @@
 
 #Get everyone on Python BEFORE 7:10
 
-#############################
+#####################################
 #    DO THE FIRST PART IN THE CLI   #
-#############################
+#####################################
 
 
 #Printing
@@ -37,9 +37,9 @@ print(myName)
 print(myAge)
 print(myAddress)
 
-###########################
+###############################
 #    CREATE A NEW DOCUMENT    #
-###########################
+###############################
 
 #COMPARISONS
 myComparisonVariable = 0
